@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="desktop-2">
+    		<div class="desktop-2-child">
+    		</div>
+    		<div class="desktop-2-item">
+    		</div>
+    		<div class="servios">SERVIÇOS</div>
+    		<div class="quem-somos">QUEM SOMOS</div>
+    		<div class="seminarios-online">SEMINARIOS ONLINE</div>
+    		<div class="ead">EAD</div>
+    		<div class="contato">CONTATO</div>
+    		<div class="combomei">COMBO.MEI</div>
+    		<div class="noticias">NOTICIAS</div>
+    		<div class="podcast">PODCAST</div>
+    		<div class="vagas">VAGAS </div>
+    		<div class="b2m2d">B2M2D</div>
+    		<div class="meicash">MEI.CASH</div>
+    		<img class="oip-9-1" alt="bandeira" src="https://github.com/Camilasimoes1/Elab/blob/main/0cac68ca193f1174730289d06c1149c623696dfa.jpg?raw=true">
+    		
+    		<img class="captura-de-tela-2024-09-20-162" alt="banner1" src="https://github.com/Camilasimoes1/Elab/blob/main/43283ab3b137f6ca81c1bcd61497c306f15d2d53.png?raw=true">
+    		
+    		<img class="captura-de-tela-2024-09-20-163" alt="banner2" src="https://github.com/Camilasimoes1/Elab/blob/main/7a3b9d78632422789ef7a00d506977ba79ce2626.png?raw=true">
+    		
+    		<img class="captura-de-tela-2024-09-09-194" alt="banner0" src="https://github.com/Camilasimoes1/Elab/blob/main/d80bc0e316215164b1227079f6b674b9f1d5c7ee.png?raw=true">
+    		
+    		<img class="icon" alt="banner3" src="https://github.com/Camilasimoes1/Elab/blob/main/463940c3483fc7797de8dc2f43a81b8e993cef5c.jpg?raw=true">
+    		
+    		<img class="icon1" alt="banner4" src="https://github.com/Camilasimoes1/Elab/blob/main/1ac6a1098dc777b584de78a55e55e04dfec397c9.jpg?raw=true">
+    		
+    		<img class="icon2" alt="banner5" src="https://github.com/Camilasimoes1/Elab/blob/main/d48ebad8296714dbbabe3a79f47db8f90d11961f.jpg?raw=true">
+    		
+    		<img class="icon3" alt="banner6" src="https://github.com/Camilasimoes1/Elab/blob/main/6f954a61acdfc51063ade081da1be95b88649357.jpg?raw=true">
+    		
+    		<img class="icon4" alt="banner7" src="https://github.com/Camilasimoes1/Elab/blob/main/e21c54e4600a4aab3627d5667c5d94bf9e8a2ca2.jpg?raw=true">
+    		
+    		<img class="icon5" alt="banner8" src="https://github.com/Camilasimoes1/Elab/blob/main/c6e5382a6db9a2cb3c58eee216773e35f78f3474.jpg?raw=true">
+    		
+    		<img class="icon6" alt="banner9" src="https://github.com/Camilasimoes1/Elab/blob/main/6b2f13e2f6d08e7da644366c186de77842316bee.jpg?raw=true">
+    		
+    		<img class="icon7" alt="banner10" src="https://github.com/Camilasimoes1/Elab/blob/main/7933f65b0bf3ccfbf31c288b92da718e195d1454.jpg?raw=true">
+    		
+    		<img class="icon8" alt="banner11" src="https://github.com/Camilasimoes1/Elab/blob/main/c57056c3d8b44ebdf59ff254a03c57631df426f8.jpg?raw=true">
+    		
+    		<img class="icon9" alt="banner12" src="https://github.com/Camilasimoes1/Elab/blob/main/6432ca2665122d7286cef684a1b17d9f7a3b0d7e.png?raw=true">
+    		
+    		<img class="icon10" alt="banner13" src="https://github.com/Camilasimoes1/Elab/blob/main/c57056c3d8b44ebdf59ff254a03c57631df426f8.jpg?raw=true">
+    		
+    		
+    		
+  	</div>
+  	
+  	<style>
+		.desktop-2-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #a49f9f;
+  	width: 1524px;
+  	height: 104px;
+}
+.desktop-2-item {
+  	position: absolute;
+  	top: 16px;
+  	left: 81px;
+  	border-radius: 28px;
+  	background-color: #2e2d2d;
+  	width: 1362px;
+  	height: 68px;
+}
+.servios {
+  	position: absolute;
+  	top: 41px;
+  	left: 246px;
+}
+.quem-somos {
+  	position: absolute;
+  	top: 41px;
+  	left: 106px;
+}
+.seminarios-online {
+  	position: absolute;
+  	top: 41px;
+  	left: 353px;
+}
+.ead {
+  	position: absolute;
+  	top: 41px;
+  	left: 543px;
+}
+.contato {
+  	position: absolute;
+  	top: 41px;
+  	left: 603px;
+}
+.combomei {
+  	position: absolute;
+  	top: 41px;
+  	left: 708px;
+}
+.noticias {
+  	position: absolute;
+  	top: 41px;
+  	left: 829px;
+}
+.podcast {
+  	position: absolute;
+  	top: 41px;
+  	left: 933px;
+}
+.vagas {
+  	position: absolute;
+  	top: 41px;
+  	left: 1038px;
+}
+.b2m2d {
+  	position: absolute;
+  	top: 41px;
+  	left: 1119px;
+}
+.meicash {
+  	position: absolute;
+  	top: 41px;
+  	left: 1203px;
+}
+.oip-9-1 {
+  	position: absolute;
+  	top: 27px;
+  	left: 1322px;
+  	width: 81px;
+  	height: 46px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-09-20-162 {
+  	position: absolute;
+  	top: 916px;
+  	left: 207px;
+  	width: 1127px;
+  	height: 564px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-09-20-163 {
+  	position: absolute;
+  	top: 1596px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 564px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-09-09-194 {
+  	position: absolute;
+  	top: 104px;
+  	left: 0px;
+  	width: 1540px;
+  	height: 718px;
+  	object-fit: cover;
+}
+.icon {
+  	position: absolute;
+  	top: 2276px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 557px;
+  	object-fit: cover;
+}
+.icon1 {
+  	position: absolute;
+  	top: 2949px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 544px;
+  	object-fit: cover;
+}
+.icon2 {
+  	position: absolute;
+  	top: 3546px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 547px;
+  	object-fit: cover;
+}
+.icon3 {
+  	position: absolute;
+  	top: 4146px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 515px;
+  	object-fit: cover;
+}
+.icon4 {
+  	position: absolute;
+  	top: 4747px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 520px;
+  	object-fit: cover;
+}
+.icon5 {
+  	position: absolute;
+  	top: 5324px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 536px;
+  	object-fit: cover;
+}
+.icon6 {
+  	position: absolute;
+  	top: 5917px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 544px;
+  	object-fit: cover;
+}
+.icon7 {
+  	position: absolute;
+  	top: 6518px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 527px;
+  	object-fit: cover;
+}
+.icon8 {
+  	position: absolute;
+  	top: 7102px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 534px;
+  	object-fit: cover;
+}
+.icon9 {
+  	position: absolute;
+  	top: 7699px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 555px;
+  	object-fit: cover;
+}
+.icon10 {
+  	position: absolute;
+  	top: 8332px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 555px;
+  	object-fit: cover;
+}
+.icon11 {
+  	position: absolute;
+  	top: 8944px;
+  	left: 211px;
+  	width: 1123px;
+  	height: 530px;
+  	object-fit: cover;
+}
+.desktop-2 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 9784px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 16px;
+  	color: #fff;
+  	font-family: Inter;
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+	</style>
+  	
+  	
+</body>
+</html>
